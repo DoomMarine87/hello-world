@@ -1,2 +1,4 @@
 # hello-world
-Code Camp
+
+Hi Humans!
+
